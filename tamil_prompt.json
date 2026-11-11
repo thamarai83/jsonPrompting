@@ -1,0 +1,38 @@
+{
+  "subject": "A woman in her late fifties draws a restrained white rice-flour kolam at the entrance of her home, pausing to refill the small bowl in her hand. She wears a practical, muted maroon-and-mustard Chettinad Kandangi cotton sari, draped for an ordinary morning at home.",
+  "setting": {
+    "place": "Front threshold and open inner courtyard of a lived-in Chettinad house in Kanadukathan, Sivaganga district, Tamil Nadu. Include a weathered lime-plastered wall, dark Burma-teak pillars, a glimpse of Athangudi floor tiles, and the street just beyond the doorway.",
+    "era": "Present day; an ordinary household morning, not a staged heritage display.",
+    "time_of_day": "Margazhi dawn, around 6:15 AM."
+  },
+  "lighting": "Soft, low-angle natural light entering from the street, balanced by a faint warm glow from inside the house; gentle shadows, no dramatic rays.",
+  "camera": {
+    "shot": "Medium-wide environmental portrait showing the woman, kolam, threshold, and a little of the courtyard.",
+    "lens": "35mm",
+    "angle": "Eye level from just inside the courtyard, looking toward the entrance."
+  },
+  "palette": [
+    "Lime-plaster cream",
+    "Weathered teak brown",
+    "Muted maroon and mustard cotton",
+    "Soft kolam white",
+    "Athangudi tile red"
+  ],
+  "style": "Observational documentary photography, natural skin texture and proportions, quiet everyday moment, restrained color grading, believable lived-in details.",
+  "aspect_ratio": "16:9",
+  "avoid": [
+    "Generic pan-Indian or North Indian visual motifs",
+    "Temple gopurams, palaces, or staged tourist-postcard composition",
+    "Bridal jewelry, festive costume, or ornate silk sari",
+    "Oversized or elaborate fantasy kolam",
+    "Text, captions, logos, or watermarks",
+    "Modern commercial signs or visible brand names",
+    "Exaggerated saturation, artificial lens flare, or glossy advertising style",
+    "Deformed hands, extra fingers, duplicated people, or distorted architecture"
+  ],
+  "motion": {
+    "subject_motion": "The woman steadily completes a few lines of the kolam, briefly dips her fingers into the rice-flour bowl, and resumes drawing. A loose edge of her sari shifts slightly in the morning breeze.",
+    "camera_move": "Very slow, steady push-in from the courtyard, keeping the woman and kolam in frame.",
+    "duration_seconds": 5
+  }
+}
