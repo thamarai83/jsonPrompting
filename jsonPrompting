@@ -1,0 +1,39 @@
+
+{
+  "subject": "A teenage girl in a white-and-navy school sports uniform performing a jump shot, releasing a basketball toward the hoop, while two teammates watch from the baseline.",
+  "setting": {
+    "place": "Outdoor concrete basketball court of a government higher secondary school in Coimbatore, Tamil Nadu, with faded painted lines, an old rusted steel backboard and hoop, and coconut palms behind the compound wall.",
+    "era": "Present day, regular Tamil Nadu school-team practice.",
+    "time_of_day": "Early morning practice around 6:15 AM during winter."
+  },
+  "lighting": "Low golden sunrise light coming from the side, long soft shadows across the court, and light morning haze.",
+  "camera": {
+    "shot": "Medium wide shot",
+    "lens": "50mm",
+    "angle": "Eye level from the side of the court, slightly behind the shooter."
+  },
+  "palette": [
+    "Faded concrete grey",
+    "School uniform navy and white",
+    "Rust orange",
+    "Palm green",
+    "Warm sunrise gold"
+  ],
+  "style": "Natural sports documentary photograph, realistic anatomy, crisp action, fine film grain.",
+  "aspect_ratio": "16:9",
+  "avoid": [
+    "Text, captions, logos or watermarks",
+    "NBA or real team jerseys",
+    "Brand logos or real player likenesses",
+    "Indoor arena or polished hardwood floor",
+    "Glossy advertisement look",
+    "Extra fingers or distorted hands",
+    "Deformed basketball",
+    "More than one basketball"
+  ],
+  "motion": {
+    "subject_motion": "The player jumps, releases the basketball, and follows through with her shooting hand. The ball travels in an arc toward the hoop.",
+    "camera_move": "Smooth tracking movement following the shooter and ball.",
+    "duration_seconds": 5
+  }
+}
